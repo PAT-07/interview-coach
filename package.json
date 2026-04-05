@@ -1,0 +1,21 @@
+{
+  "name": "interview-coach",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interview Coach frontend",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "@vitejs/plugin-react": "^4.2.1",
+    "tailwindcss": "^4.2.2",
+    "vite": "^5.2.0"
+  }
+}
