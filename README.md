@@ -107,6 +107,4 @@ Then open [http://localhost:5173](http://localhost:5173).
 | `AWS_SESSION_TOKEN`     | No       | Required for temporary credentials |
 | `PORT`                  | No       | Backend port (default: 3001)       |
 
-## License
 
-MIT
